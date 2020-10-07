@@ -4,3 +4,6 @@ source "http://rubygems.org"
 # Specify your gem's dependencies in string
 gem 'dotenv'
 gem 'twitter'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'

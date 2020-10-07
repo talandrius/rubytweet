@@ -46,4 +46,3 @@ end
 
 follow_hello
 
-#client.update('Google Workspace arrive #google #workspace https://cutt.ly/FgezRk2 !!!!')
